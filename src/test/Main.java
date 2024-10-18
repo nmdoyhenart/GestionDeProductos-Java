@@ -68,7 +68,7 @@ public class Main {
          
          System.out.println("\n3");
          Sistema sistema = new Sistema();
-;         try {
+         try {
             sistema.agregarGastronomia("858927", 15.0, true, "Milanesa con pure", 350.0, 3,LocalDate.of(2020, 10, 21));
             sistema.agregarHospedaje("489259",10.0, true, "Habitacion triple", 2200.0,LocalDate.of(2020, 10, 28));
             sistema.agregarGastronomia("182835", 20.0, true, "Gaseosa", 120.0, 3,LocalDate.of(2020, 10, 21));
