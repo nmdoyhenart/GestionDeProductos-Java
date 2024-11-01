@@ -1,4 +1,41 @@
 # 🏨 Sistema de Servicios de Hospedaje y Gastronomía
+<br></br>
+85 / 100
+
+-Puntaje basado en los criterios de aprobación:
+
+-Implementación de Clases y Métodos: 2/2
+
+-Acceso a Atributos y Métodos: 1/1
+
+-Uso de Excepciones: 1/1
+
+-Aplicación de Polimorfismo: 2/2
+
+-Pruebas Exhaustivas: 0.5/1
+
+-Consistencia en la Lógica del Sistema: 2/2
+
+-El Método abstracto precioBase está bien pensado pero es innecesario el parámetro Localdate.
+
+-Documentación y Comentarios: 0.5/1Puntaje basado en los criterios de aprobación:
+
+-Implementación de Clases y Métodos: 2/2
+
+-Acceso a Atributos y Métodos: 1/1
+
+-Uso de Excepciones: 1/1
+
+-Aplicación de Polimorfismo: 2/2
+
+-Pruebas Exhaustivas: 0.5/1
+
+-Consistencia en la Lógica del Sistema: 2/2
+
+El Método abstracto precioBase está bien pensado pero es innecesario el parámetro Localdate.
+
+-Documentación y Comentarios: 0.5/1
+<br>
 
 ---
 
