@@ -1,7 +1,6 @@
 # 🏨 Sistema de Servicios de Hospedaje y Gastronomía
 <br></br>
 85 / 100
-
 -Puntaje basado en los criterios de aprobación:
 
 -Implementación de Clases y Métodos: 2/2
